@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D03A62-4385-4FD8-BF80-1E3F78E95D19}|LegalAnalyzer.Api\\LegalAnalyzer.Api.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.api\\controllers\\legaldocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D03A62-4385-4FD8-BF80-1E3F78E95D19}|LegalAnalyzer.Api\\LegalAnalyzer.Api.csproj|solutionrelative:legalanalyzer.api\\controllers\\legaldocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7870A9E3-1018-4D5F-8CAB-394AABB6CD28}|LegalAnalyzer.Domain\\LegalAnalyzer.Domain.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.domain\\entities\\legaldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7870A9E3-1018-4D5F-8CAB-394AABB6CD28}|LegalAnalyzer.Domain\\LegalAnalyzer.Domain.csproj|solutionrelative:legalanalyzer.domain\\entities\\legaldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF66704F-B941-43F4-A2A2-41D814B0DACB}|LegalAnalyzer.Application\\LegalAnalyzer.Application.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.application\\services\\legaldocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF66704F-B941-43F4-A2A2-41D814B0DACB}|LegalAnalyzer.Application\\LegalAnalyzer.Application.csproj|solutionrelative:legalanalyzer.application\\services\\legaldocumentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF66704F-B941-43F4-A2A2-41D814B0DACB}|LegalAnalyzer.Application\\LegalAnalyzer.Application.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.application\\dtos\\legaldocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF66704F-B941-43F4-A2A2-41D814B0DACB}|LegalAnalyzer.Application\\LegalAnalyzer.Application.csproj|solutionrelative:legalanalyzer.application\\dtos\\legaldocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D03A62-4385-4FD8-BF80-1E3F78E95D19}|LegalAnalyzer.Api\\LegalAnalyzer.Api.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D03A62-4385-4FD8-BF80-1E3F78E95D19}|LegalAnalyzer.Api\\LegalAnalyzer.Api.csproj|solutionrelative:legalanalyzer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949783B1-82E4-4E76-9547-4CED8C6F5275}|LegalAnalyzer.Infrastructure\\LegalAnalyzer.Infrastructure.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.infrastructure\\persistence\\legalanalyzerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949783B1-82E4-4E76-9547-4CED8C6F5275}|LegalAnalyzer.Infrastructure\\LegalAnalyzer.Infrastructure.csproj|solutionrelative:legalanalyzer.infrastructure\\persistence\\legalanalyzerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949783B1-82E4-4E76-9547-4CED8C6F5275}|LegalAnalyzer.Infrastructure\\LegalAnalyzer.Infrastructure.csproj|c:\\repos-working\\legalapp\\legalanalyzer\\legalanalyzer.infrastructure\\persistence\\configurations\\legaldocumentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949783B1-82E4-4E76-9547-4CED8C6F5275}|LegalAnalyzer.Infrastructure\\LegalAnalyzer.Infrastructure.csproj|solutionrelative:legalanalyzer.infrastructure\\persistence\\configurations\\legaldocumentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegalDocumentDto.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Application\\DTOs\\LegalDocumentDto.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Application\\DTOs\\LegalDocumentDto.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Application\\DTOs\\LegalDocumentDto.cs",
+              "RelativeToolTip": "LegalAnalyzer.Application\\DTOs\\LegalDocumentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:27:11.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LegalDocumentConfiguration.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Infrastructure\\Persistence\\Configurations\\LegalDocumentConfiguration.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Infrastructure\\Persistence\\Configurations\\LegalDocumentConfiguration.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Infrastructure\\Persistence\\Configurations\\LegalDocumentConfiguration.cs",
+              "RelativeToolTip": "LegalAnalyzer.Infrastructure\\Persistence\\Configurations\\LegalDocumentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:51:03.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LegalDocumentsController.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Api\\Controllers\\LegalDocumentsController.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Api\\Controllers\\LegalDocumentsController.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Api\\Controllers\\LegalDocumentsController.cs",
+              "RelativeToolTip": "LegalAnalyzer.Api\\Controllers\\LegalDocumentsController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADwv3oAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:28:53.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Api\\Program.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Api\\Program.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Api\\Program.cs",
+              "RelativeToolTip": "LegalAnalyzer.Api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:00:11.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LegalDocument.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Domain\\Entities\\LegalDocument.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Domain\\Entities\\LegalDocument.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Domain\\Entities\\LegalDocument.cs",
+              "RelativeToolTip": "LegalAnalyzer.Domain\\Entities\\LegalDocument.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:15:13.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LegalDocumentService.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Application\\Services\\LegalDocumentService.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Application\\Services\\LegalDocumentService.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Application\\Services\\LegalDocumentService.cs",
+              "RelativeToolTip": "LegalAnalyzer.Application\\Services\\LegalDocumentService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:18:45.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LegalAnalyzerDbContext.cs",
+              "DocumentMoniker": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Infrastructure\\Persistence\\LegalAnalyzerDbContext.cs",
+              "RelativeDocumentMoniker": "LegalAnalyzer.Infrastructure\\Persistence\\LegalAnalyzerDbContext.cs",
+              "ToolTip": "C:\\repos-working\\LegalApp\\LegalAnalyzer\\LegalAnalyzer.Infrastructure\\Persistence\\LegalAnalyzerDbContext.cs",
+              "RelativeToolTip": "LegalAnalyzer.Infrastructure\\Persistence\\LegalAnalyzerDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:00:41.941Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

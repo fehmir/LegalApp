@@ -1,0 +1,6 @@
+@LegalAnalyzer.Api_HostAddress = http://localhost:5230
+
+GET {{LegalAnalyzer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
