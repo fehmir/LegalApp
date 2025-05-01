@@ -28,8 +28,8 @@ def extract_legal_bert_entities(text: str) -> Dict:
     return entities
 
 def detect_clauses(text: str) -> Dict[str, bool]:
-    # clauses = ["non-compete", "termination", "confidentiality", "liability"]
-    clauses = ["contrat de travail", "periode", "rupture", "fonctions"]
+    clauses = ["non-compete", "termination", "confidentiality", "liability"]
+   # clauses = ["contrat de travail", "periode", "rupture", "fonctions"]
     detected = {}
     for clause in clauses:
         detected[clause] = bool(re.search(clause, text, re.IGNORECASE))
