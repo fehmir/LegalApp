@@ -49,6 +49,7 @@ LegalAnalyzerFrontend/
    npm install
    ```
 3. Start the development server:
+   Note: Ensure you have Node.js and npm installed. (If you have an issue with Node version, 16.14.2 version worked for me)
    ```bash
    npm start
    ```
